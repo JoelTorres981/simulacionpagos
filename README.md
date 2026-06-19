@@ -2,6 +2,11 @@
 
 Este proyecto es una aplicación móvil desarrollada en **Flutter** que simula una pasarela de pagos integrada con **Firebase Firestore** como base de datos en la nube y un sistema de almacenamiento local alternativo como fallback (modo sin conexión).
 
+## 📲 Descarga de la Aplicación (APK)
+
+Puedes descargar la versión instalable para dispositivos Android directamente desde el repositorio en el siguiente enlace:
+* 📥 [**Descargar SimuladorPagos.apk**](APK/SimuladorPagos.apk)
+
 ---
 
 ## 📋 Informe del Proyecto
